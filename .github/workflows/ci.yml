@@ -16,6 +16,6 @@ jobs:
           cd client
           npm ci 
           npm run format:check
-      - run: npm test --coverage
+          npm test --coverage
         env:
           CI: true
