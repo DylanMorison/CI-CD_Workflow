@@ -1,0 +1,1 @@
+![](https://github.com/DylanMorison/CI-CD_Workflow/workflows/CI/badge.svg?branch=develop&event=push)
